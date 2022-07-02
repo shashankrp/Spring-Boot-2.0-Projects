@@ -1,6 +1,6 @@
 # Spring Boot 2.0 Projects
 
-<a href="https://www.packtpub.com/application-development/spring-boot-20-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789136159"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10531_MockupCovernew.png" alt="Spring Boot 2.0 Projects" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/spring-boot-20-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789136159"><img src="https://static.packt-cdn.com/products/9781789136159/cover/smaller" alt="Spring Boot 2.0 Projects" height="256px" align="right"></a>
 
 This is the code repository for [Spring Boot 2.0 Projects](https://www.packtpub.com/application-development/spring-boot-20-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789136159), published by Packt.
 
@@ -20,7 +20,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
-
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
